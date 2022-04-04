@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning HTML5, CSS, Javascript and Python3
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 You can reach me by sending an e-mail to victoriacristina@protonmail.com
+- 📫 You can reach me by sending an e-mail to victoriacristina@pm.me
 
 <!---
 vic-cristina/vic-cristina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
