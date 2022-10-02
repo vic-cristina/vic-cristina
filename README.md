@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vic-cristina
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning HTML5, CSS, Javascript and Python3
+- 🌱 I’m currently learning JS, Node.js & Tailwindcss
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach me by sending an e-mail to victoriacristina@pm.me
 
