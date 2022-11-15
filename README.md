@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vic-cristina
-- 👀 I’m interested in Front-End development
+- 👀 I’m interested in Full-stack Development
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach me by sending an e-mail to victoriacristina@pm.me
