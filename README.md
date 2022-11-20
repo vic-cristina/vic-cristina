@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 - 👋 Hi, I’m @vic-cristina
 - 👀 I’m interested in Full-stack Development
 - 🌱 I’m currently learning Next.js
