@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_#7F669D&height=300&section=header&text=hi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=7F669D&height=300&section=header&text=hi&fontSize=90)
 
 - 👋  I’m @vic-cristina
 - 👀 I’m interested in Full-stack Development
