@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach me by sending an e-mail to victoriacristina@pm.me
 
-[![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-cristina)]
+![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-cristina&theme=dracula)
 
 <!---
 vic-cristina/vic-cristina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
